@@ -22,7 +22,7 @@ It will play through a synth you already have (soundfont, hardware, or Windows M
 
 Work on compositions you wrote or were hired to arrange. Keep student files in the class folder you administer. Do not drop a commercial MIDI pack you are not licensed to use into a project you will publish.
 
-![Anvil Studio](https://static.kvraudio.com/i/b/pmix1.jpg)
+![Anvil Studio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORSJYLhY-_gvCyofncShE1lHQChjmCXDGsg3wqYXLWA&s=10)
 
 ---
 
